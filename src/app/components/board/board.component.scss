@@ -1,0 +1,17 @@
+main{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 2px;
+    
+}
+
+div ,button{
+
+    margin: 4px; 
+    
+}
+
+app-square{
+    border: 1px purple;
+    height: 100px;
+}
